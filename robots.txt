@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://denduong.thanhdatled.com/sitemap.xml
